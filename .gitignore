@@ -1,0 +1,4 @@
+*.projects
+*.class
+*.classpath
+.settings
